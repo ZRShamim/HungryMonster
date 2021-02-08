@@ -1,0 +1,43 @@
+body{
+    padding: 30px;
+    margin: 30px;
+}
+
+.search-box{
+    position: relative;
+}
+
+.search-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+}
+
+.btn{
+    border-radius: 1.5rem;
+    padding: 9px 20px;
+}
+
+.form-control{
+    background-color:rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    /* border: none; */
+    border-radius: 25px;
+}
+
+.meal-card{
+    display: grid;
+    float: left;
+    width:30%;
+    margin: 1%;
+}
+
+.textDesign{
+    color: crimson;
+}
+
+.img-size{
+    width: 50%;
+    height: 50%;
+}
